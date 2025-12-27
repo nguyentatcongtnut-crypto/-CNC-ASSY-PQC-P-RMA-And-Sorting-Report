@@ -1,0 +1,7 @@
+{
+  "name": "CNC ASSY PQC P - RMA & Sorting Report",
+  "description": "A comprehensive data management application for RMA and Sorting reports with Excel export, OCR image import, and multi-level user access.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
